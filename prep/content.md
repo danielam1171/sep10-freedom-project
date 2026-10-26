@@ -1,5 +1,5 @@
 # Content
-Topic: **X**
+Topic: **medical**
 
 ## Overview/Introduction/Context
 * Text
