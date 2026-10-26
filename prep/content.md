@@ -2,7 +2,7 @@
 Topic: **medical**
 
 ## Overview/Introduction/Context
-* Text
+* in the medical field 
 * Text
 
 ## Part A: existing technology
