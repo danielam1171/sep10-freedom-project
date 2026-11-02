@@ -2,10 +2,10 @@
 Topic: **medical**
 
 ## Overview/Introduction/Context
-* in the medical field 
-* Text
+* In the medical field there is poor communication between the patient and the doctor as seen in this article ¨https://www.ncbi.nlm.nih.gov/books/NBK221522/¨ so ive been searching apps that can help this issue. 
 
 ## Part A: existing technology
+
 
 ##### Software
 * Tech
@@ -18,5 +18,5 @@ Topic: **medical**
   * [image text](image URL)
 
 ## Part B: possible future technology
-* Idea
+* my idea is to make an app where doctors or nurses can organize their schedules and maybe help with this issue 
   * Detail
