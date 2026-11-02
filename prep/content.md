@@ -22,6 +22,12 @@ Topic: **medical**
 *help scout 
 *good for managing patients communication emails 
 
+##### hardware
+*video conferencing system 
+*nurse call and alert systems 
+*work applications 
+*computing devices 
+
 
 ## Part B: possible future technology
 * my idea is to make an app where doctors or nurses can organize their schedules and maybe help with this issue 
