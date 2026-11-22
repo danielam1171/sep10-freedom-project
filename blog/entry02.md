@@ -7,7 +7,7 @@ After my research in the medical field technology i found the technology the peo
 [ https://www.ncbi.nlm.nih.gov/books/NBK221522/ ) this website said that there is poor accommodation of patient needs
 
 ### Engineering design process
-
+my process for this project is to organize my notes and ideas 
 
 ### Skill/skills
 * ive grown on the skills of **reading quick to find what i need** since in my research there would be long paragraphs and i had read through all of them 
